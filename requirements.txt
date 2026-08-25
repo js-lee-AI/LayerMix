@@ -1,0 +1,7 @@
+numpy>=1.24
+scikit-learn>=1.3
+# Only needed to extract hidden states from a real model with
+# layermix.hidden_states; the probes and the geometry analysis run on any
+# array of activations and do not import torch.
+#   torch>=2.0
+#   transformers>=4.40
