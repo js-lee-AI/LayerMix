@@ -1,4 +1,27 @@
-# LayerMix: Multi-Layer Probing for Hallucination Detection
+<div align="center">
+
+# LayerMix
+
+### Multi-Layer Probing for Hallucination Detection
+
+[![EMNLP 2026](https://img.shields.io/badge/EMNLP%202026-Main-8A2BE2.svg)](https://2026.emnlp.org/)
+[![License: MIT](https://img.shields.io/badge/Code-MIT-green.svg)](LICENSE)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
+[![Stars](https://img.shields.io/github/stars/js-lee-AI/LayerMix?style=social)](https://github.com/js-lee-AI/LayerMix/stargazers)
+
+<em>The signal that separates truthful from hallucinated responses is close to one direction. Removing it drops detection to chance.</em>
+
+<b><a href="#overview">Overview</a> · <a href="#install">Install</a> · <a href="#quick-start">Quick start</a> · <a href="#using-it-on-real-activations">Usage</a> · <a href="#citation">Citation</a></b>
+
+</div>
+
+---
+
+## News
+
+- **2026-08** · Accepted to **EMNLP 2026 (Main)**.
+
+## Overview
 
 Reference implementation for *The Hallucination Signal Is a Mean Shift: Why
 Simple Probes Suffice.*
