@@ -4,6 +4,7 @@
 
 ### Multi-Layer Probing for Hallucination Detection
 
+[![arXiv](https://img.shields.io/badge/arXiv-2608.28930-b31b1b.svg)](https://arxiv.org/abs/2608.28930)
 [![EMNLP 2026](https://img.shields.io/badge/EMNLP%202026-Main-8A2BE2.svg)](https://2026.emnlp.org/)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-green.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
@@ -124,7 +125,17 @@ are scored by.
 
 ## Citation
 
-A BibTeX entry will be added once the arXiv version is available.
+If you use this code, please cite the paper.
+
+```bibtex
+@article{lee2026hallucination,
+  title   = {The Hallucination Signal Is a Mean Shift: Why Simple Probes Suffice},
+  author  = {Lee, Jungseob and Seo, Jaehyung and Lim, Heuiseok},
+  journal = {arXiv preprint arXiv:2608.28930},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2608.28930}
+}
+```
 
 ## License
 
